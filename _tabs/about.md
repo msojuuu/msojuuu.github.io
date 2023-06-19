@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> This site was created in 30-ish minutes. (more material soon ^_^)
+> This site was created in 30-ish minutes. (hopefully more material soon ^_^)
 {: .prompt-tip }
 
 > Hosted through [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages). Themed with [Chirpy Jekyll](https://github.com/cotes2020/jekyll-theme-chirpy)

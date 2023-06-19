@@ -14,7 +14,7 @@ An interactive app of "Noli Me Tangere by Dr. José Protasio Rizal Mercado y Alo
 - created by [CE Publishing, Inc.](https://cepublishing.com/)
 - runs on Adobe Flash Player 9
 
-> Size: >400MB
+> Size: <400MB
 
 <details> 
 <summary><strong>Screenshots</strong></summary>

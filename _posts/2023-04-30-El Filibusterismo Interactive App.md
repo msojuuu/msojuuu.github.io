@@ -14,7 +14,7 @@ An interactive app of "El Filibusterismo by Dr. José Protasio Rizal Mercado y A
 - created by [CE Publishing, Inc.](https://cepublishing.com/)
 - runs on Adobe Flash Player 9
 
-> Size: >350MB
+> Size: <350MB
 
 <details> 
 <summary><strong>Screenshots</strong></summary>
